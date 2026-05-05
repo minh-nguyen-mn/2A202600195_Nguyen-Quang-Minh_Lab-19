@@ -1,0 +1,27 @@
+[
+  {"question": "Who founded OpenAI?", "ground_truth": "Sam Altman and Elon Musk"},
+  {"question": "When was OpenAI founded?", "ground_truth": "2015"},
+  {"question": "Who founded Google?", "ground_truth": "Larry Page and Sergey Brin"},
+  {"question": "When was Google founded?", "ground_truth": "1998"},
+  {"question": "Who founded Microsoft?", "ground_truth": "Bill Gates and Paul Allen"},
+  {"question": "When was Microsoft founded?", "ground_truth": "1975"},
+
+  {"question": "List all founders of OpenAI", "ground_truth": "Sam Altman, Elon Musk"},
+  {"question": "List all founders of Google", "ground_truth": "Larry Page, Sergey Brin"},
+  {"question": "List all founders of Microsoft", "ground_truth": "Bill Gates, Paul Allen"},
+
+  {"question": "Which company was founded in 2015?", "ground_truth": "OpenAI"},
+  {"question": "Which company was founded in 1998?", "ground_truth": "Google"},
+  {"question": "Which company was founded in 1975?", "ground_truth": "Microsoft"},
+
+  {"question": "What year was OpenAI created?", "ground_truth": "2015"},
+  {"question": "What year was Google created?", "ground_truth": "1998"},
+  {"question": "What year was Microsoft created?", "ground_truth": "1975"},
+
+  {"question": "Who are the founders of OpenAI?", "ground_truth": "Sam Altman and Elon Musk"},
+  {"question": "Who are the founders of Google?", "ground_truth": "Larry Page and Sergey Brin"},
+  {"question": "Who are the founders of Microsoft?", "ground_truth": "Bill Gates and Paul Allen"},
+
+  {"question": "Give founders and year of OpenAI", "ground_truth": "Sam Altman, Elon Musk, 2015"},
+  {"question": "Give founders and year of Google", "ground_truth": "Larry Page, Sergey Brin, 1998"}
+]
