@@ -1,0 +1,21 @@
+question,ground_truth,flat_rag,graph_rag
+Who founded OpenAI?,Sam Altman and Elon Musk,OpenAI was founded by Sam Altman and Elon Musk in 2015.,OpenAI was founded by Elon Musk and Sam Altman in 2015.
+When was OpenAI founded?,2015,OpenAI was founded in 2015.,OpenAI was founded in December 2015.
+Who founded Google?,Larry Page and Sergey Brin,Google was founded by Larry Page and Sergey Brin in 1998.,Google was founded by Larry Page and Sergey Brin.
+When was Google founded?,1998,Google was founded in 1998.,Google was founded in September 1998.
+Who founded Microsoft?,Bill Gates and Paul Allen,Microsoft was founded by Bill Gates and Paul Allen in 1975.,Microsoft was founded by Bill Gates and Paul Allen in 1975.
+When was Microsoft founded?,1975,Microsoft was founded in 1975.,"Microsoft was founded on April 4, 1975."
+List all founders of OpenAI,"Sam Altman, Elon Musk",The founders of OpenAI are Sam Altman and Elon Musk.,"Elon Musk, Sam Altman"
+List all founders of Google,"Larry Page, Sergey Brin",The founders of Google are Larry Page and Sergey Brin.,"Larry Page, Sergey Brin"
+List all founders of Microsoft,"Bill Gates, Paul Allen",The founders of Microsoft are Bill Gates and Paul Allen.,Bill Gates and Paul Allen.
+Which company was founded in 2015?,OpenAI,OpenAI was founded in 2015.,openai
+Which company was founded in 1998?,Google,Google was founded in 1998.,Google was founded in 1998.
+Which company was founded in 1975?,Microsoft,Microsoft was founded in 1975.,Microsoft was founded in 1975.
+What year was OpenAI created?,2015,OpenAI was created in 2015.,OpenAI was created in December 2015.
+What year was Google created?,1998,Google was created in 1998.,Google was created in 1998.
+What year was Microsoft created?,1975,Microsoft was created in 1975.,Microsoft was created in 1975.
+Who are the founders of OpenAI?,Sam Altman and Elon Musk,The founders of OpenAI are Sam Altman and Elon Musk.,The founders of OpenAI are Elon Musk and Sam Altman.
+Who are the founders of Google?,Larry Page and Sergey Brin,The founders of Google are Larry Page and Sergey Brin.,The founders of Google are Sergey Brin and Larry Page.
+Who are the founders of Microsoft?,Bill Gates and Paul Allen,The founders of Microsoft are Bill Gates and Paul Allen.,The founders of Microsoft are Bill Gates and Paul Allen.
+Give founders and year of OpenAI,"Sam Altman, Elon Musk, 2015",OpenAI was founded by Sam Altman and Elon Musk in 2015.,OpenAI was founded by Elon Musk and Sam Altman in 2015.
+Give founders and year of Google,"Larry Page, Sergey Brin, 1998",Google was founded by Larry Page and Sergey Brin in 1998.,Google was founded in 1998 by Larry Page and Sergey Brin.
